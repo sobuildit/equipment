@@ -10,7 +10,7 @@ id=15.4;
 clearance=1;
 slot_w=5;
 height=29;
-fn=50;
+fn=200;
 
 // render top level
 body();
